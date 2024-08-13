@@ -30,7 +30,7 @@ You can clone this repository using the following command:
 
 
 ### Cloning the Repository
-dsa-practice-c/
+```dsa-practice-c/
 │
 ├── arrays/
 │   ├── array_problem1.c
@@ -68,7 +68,7 @@ dsa-practice-c/
 │   └── ...
 │
 └── README.md
-
+```
 ## How to Use
 
 1. Navigate to the directory containing the problem you want to run.
@@ -77,9 +77,10 @@ dsa-practice-c/
    gcc array_problem1.c -o array_problem1
 
 3.  Run the compiled executable:
+```
     ./array_problem1
 
-
+```
 ## Contributing
 
 Contributions are welcome! If you have any improvements or additional problems to add, please follow these steps:
