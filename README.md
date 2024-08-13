@@ -25,11 +25,11 @@ To get started with the code in this repository, you need to have the following 
 ### Cloning the Repository
 
 You can clone this repository using the following command:
-
-```bash
+``bash
   git clone https://github.com/TheShyamTripathi/DSA_Question.git
 
-## Directory Structure
+
+### Cloning the Repository
 dsa-practice-c/
 │
 ├── arrays/
